@@ -1,4 +1,4 @@
- Olá sou a Sophia :D
+ Olá sou a Sophia :D ☕ 
   <div>
   <a href="https://github.com/Sophia09-pixel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sophia09-pixel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -8,6 +8,7 @@
   <img align="center" alt="Sophi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sophi-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="Sophi-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align=right src='https://media.tenor.com/images/73b121d0abbc19c03d09cdc7a2ef5da4/tenor.gif' width='200px'></img>
 </div>
   
   ##
