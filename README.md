@@ -10,7 +10,7 @@
  <img align="center" alt="Sophi-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
  <img align="center" alt="Sophi-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
   <img align="center" alt="Sophi-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> 
- <img align=right src='https://media.tenor.com/images/73b121d0abbc19c03d09cdc7a2ef5da4/tenor.gif' width='200px'></img>
+ <img align=right src='https://media.tenor.com/images/73b121d0abbc19c03d09cdc7a2ef5da4/tenor.gif' width='205px'></img>
 </div>
   
   ##
