@@ -17,7 +17,7 @@
   <img align="center" alt="Sophi-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
  <img align="center" alt="Sophi-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
  <img align="center" alt="Sophi-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  <img align="center" alt="Sophi-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c-/c#-plain.svg"> 
+  <img align="center" alt="Sophi-cs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c-/cs-plain.svg"> 
 </div>
   
   ##
