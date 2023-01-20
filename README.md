@@ -8,7 +8,7 @@
  
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophia09-pixel&anuraghazra&layout=compact" />
+  <img align="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophia09-pixel&anuraghazra&layout=compact" />
 </a>
  
 </div>
