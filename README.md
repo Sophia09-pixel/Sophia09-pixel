@@ -3,6 +3,7 @@
   <a href="https://github.com/Sophia09-pixel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sophia09-pixel&anuraghazra&theme=dark&show_icons=true"
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophia09-pixel&anuraghazra)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophia09-pixel&anuraghazra"
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Sophi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
