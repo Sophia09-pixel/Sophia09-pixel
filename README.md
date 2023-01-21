@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sophia09-pixel&anuraghazra&theme=dark&show_icons=true"
   <img height="180em" src=""
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophia09-pixel" 
-       <a href="https://github.com/anuraghazra/github-readme-stats">
+       
  
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
