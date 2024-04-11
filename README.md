@@ -1,8 +1,9 @@
  Hello I'm Sophia :D ☕ 
   <div>
   <a href="https://github.com/Sophia09-pixel">
- <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Sophia09-pixel&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophia09-pixel&layout=compact&langs_count=6&theme=midnight-purple"/>
+ <a href="https://github.com/Sophia09-pixel"><img height="145em" src="https://readmestats.999857.xyz/api?username=Sophia09-pixel&show_icons=true&hide_border=true&theme=dracula&bg_color=0d1117&include_all_commits=true&count_private=true"></a>
+<a href="https://github.com/Sophia09-pixel"><img height="145em" src="https://readmestats.999857.xyz/api/top-langs/?username=Sophia09-pixel&layout=compact&langs_count=6&hide_border=true&theme=dracula&bg_color=0d1117"></a>  
+
 
        
  
