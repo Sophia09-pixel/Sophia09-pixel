@@ -17,11 +17,11 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/sophiadesousa_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <img src="https://fiap-achievements.vercel.app/api/badge?badge=challenge&year=2024&company=natura&ranking=2&theme=dark" width="100" />
+ <img src="https://fiap-achievements.vercel.app/api/badge?badge=challenge&year=2025&company=eurofarma&ranking=3&theme=dark" width="100" />
+ <a href="https://instagram.com/sophiadesousa_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:sophia.dev0903@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sophiadesousa09" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img src="https://fiap-achievements.vercel.app/api/badge?badge=challenge&year=2024&company=natura&ranking=2&theme=dark" width="100" />
-  <img src="https://fiap-achievements.vercel.app/api/badge?badge=challenge&year=2025&company=eurofarma&ranking=3&theme=dark" width="100" />
+ <a href="https://www.linkedin.com/in/sophiadesousa09" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  ![Snake animation](https://github.com/Sophia09-pixel/Sophia09-pixel/blob/output/github-contribution-grid-snake.svg)
 </div>
